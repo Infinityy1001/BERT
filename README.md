@@ -1,6 +1,7 @@
 # BERT
 
-![image_bert](assets/bert.jpg)
+![image_bert](main/assets/bert.jpg)
+
 
 
 # Introduction à l'Architecture BERT
